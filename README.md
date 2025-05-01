@@ -1,0 +1,2 @@
+# lastwar
+LastWar Netcafe Launcher
